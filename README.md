@@ -28,10 +28,10 @@ In JSBDDR the goal is to defeat the Legend and God Sūn Wù Kōng in a 1 on 1 ba
 * ↓
 ![Screenshot 2024-08-11 161320](https://github.com/user-attachments/assets/dddc7870-6c80-4c1d-8ab9-8652e47d8e19)
 
+
 **When in the game use these keybinds to play**
 * ↓
 ![Screenshot (1)](https://github.com/user-attachments/assets/fc328bf4-bd83-4ecf-9dd2-c73c6bf846b8)
-
 
 
 ## <span id="authors">Authors</span>
