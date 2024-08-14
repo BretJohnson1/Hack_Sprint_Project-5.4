@@ -26,6 +26,7 @@ In JSBDDR the goal is to defeat the Legend and God Sūn Wù Kōng in a 1 on 1 ba
 
 **First select the gamemode you want to play (currently limited to practice)**
 *  ![[Screenshot 2024-08-11 161320.png]]
+
 **When in the game use these keybinds to play**
 *  ![[Screenshot (1).png]]
 
@@ -35,7 +36,7 @@ In JSBDDR the goal is to defeat the Legend and God Sūn Wù Kōng in a 1 on 1 ba
 **Treyvon Turner**
  Github: [@AfroCircus](https://github.com/AfroCircus64)
 
-**Josh Cox**
+**Bret Johnson**
  Github: [@Bretjohnson1](https://github.com/Bretjohnson1)
 
 
